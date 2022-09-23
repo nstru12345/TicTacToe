@@ -1,0 +1,15 @@
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.csproj.AssemblyReference.cache
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.AssemblyInfoInputs.cache
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.AssemblyInfo.cs
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.csproj.CoreCompileInputs.cache
+/Users/elizabethboney/Projects/TictacToe/TictacToe/bin/Debug/net6.0/TictacToe
+/Users/elizabethboney/Projects/TictacToe/TictacToe/bin/Debug/net6.0/TictacToe.deps.json
+/Users/elizabethboney/Projects/TictacToe/TictacToe/bin/Debug/net6.0/TictacToe.runtimeconfig.json
+/Users/elizabethboney/Projects/TictacToe/TictacToe/bin/Debug/net6.0/TictacToe.dll
+/Users/elizabethboney/Projects/TictacToe/TictacToe/bin/Debug/net6.0/TictacToe.pdb
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.dll
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/refint/TictacToe.dll
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.pdb
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/TictacToe.genruntimeconfig.cache
+/Users/elizabethboney/Projects/TictacToe/TictacToe/obj/Debug/net6.0/ref/TictacToe.dll
